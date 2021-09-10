@@ -1,0 +1,8 @@
+##Windows Task Scheduler Setup steps for complete automation.
+## All below steps are shown in the image shared follow step number with the image number. 
+Step 1: Go to Start and type Task Scheduler and then press enter. 
+Step 2: Click on Create Task 
+Step 3: Name your Task and set the priority to run the task. (Run when login // Run whether logged on or not)
+Step4: Schedule the task as per your requirements.
+Step5: Start a program, in the program script put the program .exe file address that can be found in c drive see image 5 to get a clear idea. 
+Step6: Check all the status, in Last Run Result it should be (0x0) after running the program, This means the task is running without any error.
