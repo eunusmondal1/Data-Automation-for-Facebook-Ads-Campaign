@@ -1,0 +1,12 @@
+Step1: go to https://developers.facebook.com/
+Step2: Create An App 
+Step3: go to graph api explorer
+Step4: Select Facebook that you have created in step 2
+Step5: add permission ( read_insights, ads_read, pages_read_engagments, pages_read_user_content
+Step6: Click on generate Access token, it will ask accont passward-provide that and select the account you want to get data. 
+Step7: Click on (i) icon in Access token
+Step8: Click on Open in Access Token Tool
+Step9: Click on Extend Access token
+Step10: Click on Debug
+Step11: Copy the id next to page_read_engagment and write in some where this act ID that needs to put in get url in R code after act_
+Step12: Copy the debug code and paste in access token in get url in R code. 
